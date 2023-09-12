@@ -1,2 +1,1 @@
-# rightschain
-RightsChain Specifications
+
